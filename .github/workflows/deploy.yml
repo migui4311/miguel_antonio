@@ -1,4 +1,4 @@
-ame: Pipeline CI/CD a Amazon S3
+name: Pipeline CI/CD a Amazon S3
 
 on:
   push:
